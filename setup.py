@@ -13,7 +13,8 @@ install_requires = [
     'requests',
     'pandas',
     'beautifulsoup4',
-    'lxml'
+    'lxml',
+    'urllib3>=2.0.0'
 ]
 
 
